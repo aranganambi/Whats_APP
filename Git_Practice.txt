@@ -1,0 +1,11 @@
+This is whatsApp code:
+
+Author Name: Aranganambi umalai
+
+1. Chat page code
+
+2. Status page code
+
+3. Last seen code
+
+4. Attachment code (Image, Video, Audio)
