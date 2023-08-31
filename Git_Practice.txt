@@ -1,6 +1,6 @@
 This is WhatsApp code:
 
-Author Name: Aranganambi umalai
+Author Name: Aranganambi Elumalai
 
 1. Chat page code
 
